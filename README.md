@@ -18,5 +18,5 @@ License and terms of use:
 
 References and acknowledgement.
 
-Background:
+
   
